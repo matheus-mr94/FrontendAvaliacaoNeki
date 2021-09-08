@@ -1,0 +1,1 @@
+Aplicação React para avaliação da Neki IT
