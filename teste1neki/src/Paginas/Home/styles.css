@@ -1,0 +1,12 @@
+.box1{
+    margin-top: 100px;
+    
+}
+.text-uppercase{
+    text-transform: uppercase !important;
+    font-size: 36px;
+    font-weight: bold;
+}
+.texto{
+    font-size: 20px;
+}

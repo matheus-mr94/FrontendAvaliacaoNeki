@@ -1,0 +1,16 @@
+
+.container2{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+
+
+
+.cardUsuario{
+    border: 3px #000 solid;
+    width: 550px;
+    background: linear-gradient(to right, rgba(4, 182, 184, 0.95) 0%, rgba(27, 83, 106, 0.95) 100%);
+    
+}

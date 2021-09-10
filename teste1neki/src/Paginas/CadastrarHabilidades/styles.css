@@ -1,0 +1,35 @@
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+.logo{    
+    width: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.login{
+    padding: 15px;
+    background: linear-gradient(to right, rgba(4, 182, 184, 0.95) 0%, rgba(27, 83, 106, 0.95) 100%);
+}
+.container1{ 
+    display: flex;
+    margin-top: 0px;
+    background: rgba(255,255, 255, 0.2);
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;  
+    justify-content: center; 
+   
+
+}
+.textArea{
+    resize: none;
+    width: 265px;
+    height: 70px;
+}
+
+.btn3{
+    width: 265px ;
+}
+
